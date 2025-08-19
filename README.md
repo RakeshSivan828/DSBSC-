@@ -49,10 +49,15 @@ Model Waveform
 
 Program
 
+<img width="449" height="510" alt="image" src="https://github.com/user-attachments/assets/8424203a-339b-4afe-b0fa-0a7621b6fb8a" />
+
+
 Output Graph
+<img width="1519" height="967" alt="image" src="https://github.com/user-attachments/assets/b99c45a6-dcc0-4cf5-a17f-851848a3158d" />
 
 
 Tablular Column
+![WhatsApp Image 2025-08-14 at 09 44 42_6347df48](https://github.com/user-attachments/assets/be85ac5c-8959-4ec0-9653-439141614e2b)
 
 
 Result
